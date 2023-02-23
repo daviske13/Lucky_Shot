@@ -1,0 +1,50 @@
+
+
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+}
+
+
+header {
+    color:rgb(223, 195, 37);
+    text-align: center;
+    font-family: fantasy®;
+}
+
+p {
+     font-size: 25px;
+    color: rgb(223, 195, 37);
+    text-align: center;
+    font-family: fantasy;
+}
+
+h1 { 
+    font-size: 40px;
+     color: rgb(223, 195, 37);
+    text-align: center;
+    font-family: fantasy;
+    border-color: rgb(223, 195, 37);
+    height: 50px;
+    width: 20%;
+    margin: 30px auto;
+    border: 10px dotted rgb(223, 195, 37);
+}
+
+h2 {
+    margin: 50px;
+    font-size: 15px;
+    color: rgb(223, 195, 37);
+    font-family: fantasy;
+    padding: 20px;
+    border: 20px;
+  }
+
+form {
+    justify-content: bottom, center;
+    text-align: left;
+    border-style: double;
+    border-width: 2px;
+    border-color: rgb(14, 14, 14);
+}
